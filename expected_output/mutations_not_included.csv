@@ -1,0 +1,4 @@
+Mutation_in_alignment,Mutation_in_genome,Branch,Reason_not_included
+T776C,T1712365C,SRR2100577.1,In_tract_of_three_or_more_substitutions
+G777A,G1712366A,SRR2100577.1,In_tract_of_three_or_more_substitutions
+A778T,A1712367T,SRR2100577.1,In_tract_of_three_or_more_substitutions
